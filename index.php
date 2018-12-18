@@ -38,6 +38,7 @@
          <?php
         echo'<from action = "RealizarCopia.php>" method = "POST">
          
+        echo "esto es una prueba de git";
         
         Solo una BD
         <input type="radio" name="rbcopia" value="0" checked="checked"/> 
